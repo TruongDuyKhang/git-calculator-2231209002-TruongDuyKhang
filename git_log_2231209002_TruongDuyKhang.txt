@@ -1,0 +1,38 @@
+commit 00c48270c33461117bb4bd8094401dd8fcd75686
+Author: TruongDuyKhang <khang.truongduy.cit22@eiu.edu.vn>
+Date:   Wed Oct 8 15:14:02 2025 +0700
+
+    Revert "Refactor: Reorder operator keys"
+    
+    This reverts commit 93ce75f026ef5c91fc2e16a97c6138e724203fe3.
+
+commit f50e2f6aa34220b810186423e74294072511f84c
+Author: TruongDuyKhang <khang.truongduy.cit22@eiu.edu.vn>
+Date:   Wed Oct 8 15:06:12 2025 +0700
+
+    Build: Add .gitignore to ignore log files
+
+commit 08a4927f116d8fea38a5f6c193be3bd4a9961562
+Merge: 93ce75f 06155f9
+Author: TruongDuyKhang <khang.truongduy.cit22@eiu.edu.vn>
+Date:   Wed Oct 8 14:55:35 2025 +0700
+
+    Merge branch 'feature-sqrt'
+
+commit 93ce75f026ef5c91fc2e16a97c6138e724203fe3
+Author: TruongDuyKhang <khang.truongduy.cit22@eiu.edu.vn>
+Date:   Wed Oct 8 14:54:11 2025 +0700
+
+    Refactor: Reorder operator keys
+
+commit 06155f9b38bb31a7ea63cc281f2d0233a6939619
+Author: TruongDuyKhang <khang.truongduy.cit22@eiu.edu.vn>
+Date:   Wed Oct 8 14:52:32 2025 +0700
+
+    Feature: Add square root functionality
+
+commit bc64ae3947b40dc117659a77cef8ad4ec10f74c9
+Author: TruongDuyKhang <khang.truongduy.cit22@eiu.edu.vn>
+Date:   Wed Oct 8 14:49:27 2025 +0700
+
+    Initial commit: Add base calculator project files
